@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ArrayBilangan01 {
+public class ArrayBilangan16 {
     public static void main(String[] args) {
         int[] bil = {5, 13, -7, 17};
 
