@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tugas2CfeKampus {
+public class Tugas2KafeKampus {
 
     public static void main(String[] args) {
     
